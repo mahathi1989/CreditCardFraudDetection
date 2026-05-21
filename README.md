@@ -105,7 +105,7 @@ The landing page of the Streamlit app where users can input transaction details 
 ### ⚡ Prediction Result
 
 📌 The model predicts this transaction as **Normal (Non-Fraud)**.
-![Prediction](images/prediction_normal.png)
+![Prediction](images/preidiction_normal.png)
 
 📌 The model predicts this transaction as **Fraudulent**, helping detect suspicious activity.
 ![Prediction](images/prediction_fraud.png)
