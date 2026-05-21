@@ -99,7 +99,7 @@ streamlit run app.py
 ### 🏠 Home Page
 📌 What this shows:  
 The landing page of the Streamlit app where users can input transaction details for fraud prediction.
-![Home](images/home_pag.png)
+![Home](images/home_page.png)
 
 
 ### ⚡ Prediction Result
@@ -108,7 +108,7 @@ The landing page of the Streamlit app where users can input transaction details 
 ![Prediction](images/preidiction_normal.png)
 
 📌 The model predicts this transaction as **Fraudulent**, helping detect suspicious activity.
-![Prediction](images/prediction_frad.png)
+![Prediction](images/prediction_fraud.png)
 
 
 ### 📊 Confusion Matrix
