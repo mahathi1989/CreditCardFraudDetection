@@ -132,6 +132,6 @@ Explains how each feature impacts the model’s prediction for fraud detection.
 ---
 
 ## 👤 Author
-Your Name
+Akula Neelima Mahathi
 - GitHub: @mahathi1989
 - LinkedIn: https://www.linkedin.com/in/neelima-mahathi-akula-570a3237a/
